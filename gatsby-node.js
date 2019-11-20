@@ -148,9 +148,7 @@ exports.createPages = ({ graphql, actions }) => {
                 } else if (link.startsWith('/' + langKey + '/')) {
                   console.log('-----------------');
                   console.error(
-                    `It looks like "${langKey}" translation of "${
-                      post.node.frontmatter.title
-                    }" ` +
+                    `It looks like "${langKey}" translation of "${post.node.frontmatter.title}" ` +
                       `is linking to a translated link: ${link}. Don't do this. Use the original link. ` +
                       `The blog post renderer will automatically use a translation if it is available.`
                   );
@@ -158,7 +156,7 @@ exports.createPages = ({ graphql, actions }) => {
                 }
               }
             });
-
+            console.log('heres the post node', post.node.fields.slug);
             createPage({
               path: post.node.fields.slug,
               component: blogPost,

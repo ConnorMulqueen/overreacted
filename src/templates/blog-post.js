@@ -182,7 +182,7 @@ class BlogPostTemplate extends React.Component {
                 </a>
                 {` • `}
                 <a href={editUrl} target="_blank" rel="noopener noreferrer">
-                  Edit on GitHub
+                  Edit this post on GitHub
                 </a>
               </p>
             </footer>
