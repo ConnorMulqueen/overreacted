@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Dan Abramov's Overreacted Blog RSS Feed]]></title><description><![CDATA[Personal blog by Connor Mulqueen. Some guy who liked Halo enough to become a software engineer.]]></description><link>https://wwww.connormulqueen.com/overreacted</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 20 Nov 2019 02:48:29 GMT</lastBuildDate><item><title><![CDATA[Getting my Discord bot deployed to 500+ servers]]></title><description><![CDATA[A tale about World of Warcraft memes and catering to an audience]]></description><link>https://wwww.connormulqueen.com/overreacted/getting-my-discord-bot-to-500-users/</link><guid isPermaLink="false">https://wwww.connormulqueen.com/overreacted/getting-my-discord-bot-to-500-users/</guid><pubDate>Tue, 19 Nov 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;A tale about World of Warcraft memes and catering to an audience&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Dan Abramov's Overreacted Blog RSS Feed]]></title><description><![CDATA[Personal blog by Connor Mulqueen. Some guy who liked Halo enough to become a software engineer.]]></description><link>https://wwww.connormulqueen.com/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 20 Nov 2019 03:02:45 GMT</lastBuildDate><item><title><![CDATA[Getting my Discord bot deployed to 500+ servers]]></title><description><![CDATA[A tale about World of Warcraft memes and catering to an audience]]></description><link>https://wwww.connormulqueen.com/blog/getting-my-discord-bot-to-500-users/</link><guid isPermaLink="false">https://wwww.connormulqueen.com/blog/getting-my-discord-bot-to-500-users/</guid><pubDate>Tue, 19 Nov 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;A tale about World of Warcraft memes and catering to an audience&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Todo-fix this
 Side projects remind me of why I love software development - we have the ability to conjure products from nothing, with minimal upfront costs. In this side project, the most rewarding part has actually been bundling it and making it accessible to the public with a beautiful readme. Why is this my favorite part? Am I a man of the people? &lt;strong&gt;No.&lt;/strong&gt; I just want GitHub stars.&lt;/p&gt;
 &lt;p&gt;So as the man I am, a seeker of GitHub stars, I went on and decided my best action was to try to appeal to a niche community that I relate with; as Mark Twain said, “Write what you know.” The answer was obvious: I was going to build something that related to World of Warcraft.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://wwww.connormulqueen.com/overreacted/overreacted/static/cf321cf24efb0b8b3342c87b3fd0ad65/2f7bb/wow_classic_ad.jpg&quot;
+    href=&quot;https://wwww.connormulqueen.com/blog/blog/static/cf321cf24efb0b8b3342c87b3fd0ad65/2f7bb/wow_classic_ad.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -24,11 +24,11 @@ Side projects remind me of why I love software development - we have the ability
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;WoW Classic ad&quot;
         title=&quot;&quot;
-        src=&quot;https://wwww.connormulqueen.com/overreacted/overreacted/static/cf321cf24efb0b8b3342c87b3fd0ad65/c739e/wow_classic_ad.jpg&quot;
-        srcset=&quot;/overreacted/static/cf321cf24efb0b8b3342c87b3fd0ad65/8ee9c/wow_classic_ad.jpg 148w,
-/overreacted/static/cf321cf24efb0b8b3342c87b3fd0ad65/ebbe7/wow_classic_ad.jpg 295w,
-/overreacted/static/cf321cf24efb0b8b3342c87b3fd0ad65/c739e/wow_classic_ad.jpg 590w,
-/overreacted/static/cf321cf24efb0b8b3342c87b3fd0ad65/2f7bb/wow_classic_ad.jpg 746w&quot;
+        src=&quot;https://wwww.connormulqueen.com/blog/blog/static/cf321cf24efb0b8b3342c87b3fd0ad65/c739e/wow_classic_ad.jpg&quot;
+        srcset=&quot;/blog/static/cf321cf24efb0b8b3342c87b3fd0ad65/8ee9c/wow_classic_ad.jpg 148w,
+/blog/static/cf321cf24efb0b8b3342c87b3fd0ad65/ebbe7/wow_classic_ad.jpg 295w,
+/blog/static/cf321cf24efb0b8b3342c87b3fd0ad65/c739e/wow_classic_ad.jpg 590w,
+/blog/static/cf321cf24efb0b8b3342c87b3fd0ad65/2f7bb/wow_classic_ad.jpg 746w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -43,7 +43,7 @@ Side projects remind me of why I love software development - we have the ability
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://wwww.connormulqueen.com/overreacted/overreacted/static/ca7c7a7c7d917d331116c84753bb5c35/ccfda/nochanges_tweet.png&quot;
+    href=&quot;https://wwww.connormulqueen.com/blog/blog/static/ca7c7a7c7d917d331116c84753bb5c35/ccfda/nochanges_tweet.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -62,11 +62,11 @@ Side projects remind me of why I love software development - we have the ability
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;#nochanges&quot;
         title=&quot;&quot;
-        src=&quot;https://wwww.connormulqueen.com/overreacted/overreacted/static/ca7c7a7c7d917d331116c84753bb5c35/b9e4f/nochanges_tweet.png&quot;
-        srcset=&quot;/overreacted/static/ca7c7a7c7d917d331116c84753bb5c35/cf440/nochanges_tweet.png 148w,
-/overreacted/static/ca7c7a7c7d917d331116c84753bb5c35/d2d38/nochanges_tweet.png 295w,
-/overreacted/static/ca7c7a7c7d917d331116c84753bb5c35/b9e4f/nochanges_tweet.png 590w,
-/overreacted/static/ca7c7a7c7d917d331116c84753bb5c35/ccfda/nochanges_tweet.png 796w&quot;
+        src=&quot;https://wwww.connormulqueen.com/blog/blog/static/ca7c7a7c7d917d331116c84753bb5c35/b9e4f/nochanges_tweet.png&quot;
+        srcset=&quot;/blog/static/ca7c7a7c7d917d331116c84753bb5c35/cf440/nochanges_tweet.png 148w,
+/blog/static/ca7c7a7c7d917d331116c84753bb5c35/d2d38/nochanges_tweet.png 295w,
+/blog/static/ca7c7a7c7d917d331116c84753bb5c35/b9e4f/nochanges_tweet.png 590w,
+/blog/static/ca7c7a7c7d917d331116c84753bb5c35/ccfda/nochanges_tweet.png 796w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -77,7 +77,7 @@ Side projects remind me of why I love software development - we have the ability
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;#nochanges&lt;/strong&gt;: a debate/joke within the community that ignites arguments and memes. It refers to the suggestion that the re-release of the 2006 version should come with some changes.&lt;/em&gt;&lt;/p&gt;
 &lt;h4 id=&quot;so-what-does-the-bot-look-like&quot;&gt;&lt;a href=&quot;#so-what-does-the-bot-look-like&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;So what does the bot look like?&lt;/h4&gt;
 &lt;p&gt;When someone types &lt;em&gt;#nochanges&lt;/em&gt;, the bot sends a meme scraped from /r/classicwow.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://wwww.connormulqueen.com/overreacted/overreacted/6d2970ddf7d8dadbdae57bf829d5f466/demo.gif&quot; alt=&quot;Demo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://wwww.connormulqueen.com/blog/blog/6d2970ddf7d8dadbdae57bf829d5f466/demo.gif&quot; alt=&quot;Demo&quot;&gt;&lt;/p&gt;
 &lt;h4 id=&quot;what-did-i-use-to-build-it&quot;&gt;&lt;a href=&quot;#what-did-i-use-to-build-it&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What did I use to build it?&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Python + JavaScript/Node.js&lt;/li&gt;
@@ -116,7 +116,7 @@ So, after getting the bot up and running on a weird, free hosting platform, I tr
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://wwww.connormulqueen.com/overreacted/overreacted/static/b5e1c59bdc45b6c1f6e0db2b47cad25d/ba6f7/first_reddit_post.png&quot;
+    href=&quot;https://wwww.connormulqueen.com/blog/blog/static/b5e1c59bdc45b6c1f6e0db2b47cad25d/ba6f7/first_reddit_post.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -135,11 +135,11 @@ So, after getting the bot up and running on a weird, free hosting platform, I tr
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Reddit Post #1&quot;
         title=&quot;&quot;
-        src=&quot;https://wwww.connormulqueen.com/overreacted/overreacted/static/b5e1c59bdc45b6c1f6e0db2b47cad25d/b9e4f/first_reddit_post.png&quot;
-        srcset=&quot;/overreacted/static/b5e1c59bdc45b6c1f6e0db2b47cad25d/cf440/first_reddit_post.png 148w,
-/overreacted/static/b5e1c59bdc45b6c1f6e0db2b47cad25d/d2d38/first_reddit_post.png 295w,
-/overreacted/static/b5e1c59bdc45b6c1f6e0db2b47cad25d/b9e4f/first_reddit_post.png 590w,
-/overreacted/static/b5e1c59bdc45b6c1f6e0db2b47cad25d/ba6f7/first_reddit_post.png 852w&quot;
+        src=&quot;https://wwww.connormulqueen.com/blog/blog/static/b5e1c59bdc45b6c1f6e0db2b47cad25d/b9e4f/first_reddit_post.png&quot;
+        srcset=&quot;/blog/static/b5e1c59bdc45b6c1f6e0db2b47cad25d/cf440/first_reddit_post.png 148w,
+/blog/static/b5e1c59bdc45b6c1f6e0db2b47cad25d/d2d38/first_reddit_post.png 295w,
+/blog/static/b5e1c59bdc45b6c1f6e0db2b47cad25d/b9e4f/first_reddit_post.png 590w,
+/blog/static/b5e1c59bdc45b6c1f6e0db2b47cad25d/ba6f7/first_reddit_post.png 852w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -152,7 +152,7 @@ So, after getting the bot up and running on a weird, free hosting platform, I tr
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://wwww.connormulqueen.com/overreacted/overreacted/static/0f0b1f76645fb495929eeaceabaf0ef3/7d5a5/first_reddit_post_comment.png&quot;
+    href=&quot;https://wwww.connormulqueen.com/blog/blog/static/0f0b1f76645fb495929eeaceabaf0ef3/7d5a5/first_reddit_post_comment.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -171,11 +171,11 @@ So, after getting the bot up and running on a weird, free hosting platform, I tr
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Reddit Post #1 Comment&quot;
         title=&quot;&quot;
-        src=&quot;https://wwww.connormulqueen.com/overreacted/overreacted/static/0f0b1f76645fb495929eeaceabaf0ef3/b9e4f/first_reddit_post_comment.png&quot;
-        srcset=&quot;/overreacted/static/0f0b1f76645fb495929eeaceabaf0ef3/cf440/first_reddit_post_comment.png 148w,
-/overreacted/static/0f0b1f76645fb495929eeaceabaf0ef3/d2d38/first_reddit_post_comment.png 295w,
-/overreacted/static/0f0b1f76645fb495929eeaceabaf0ef3/b9e4f/first_reddit_post_comment.png 590w,
-/overreacted/static/0f0b1f76645fb495929eeaceabaf0ef3/7d5a5/first_reddit_post_comment.png 687w&quot;
+        src=&quot;https://wwww.connormulqueen.com/blog/blog/static/0f0b1f76645fb495929eeaceabaf0ef3/b9e4f/first_reddit_post_comment.png&quot;
+        srcset=&quot;/blog/static/0f0b1f76645fb495929eeaceabaf0ef3/cf440/first_reddit_post_comment.png 148w,
+/blog/static/0f0b1f76645fb495929eeaceabaf0ef3/d2d38/first_reddit_post_comment.png 295w,
+/blog/static/0f0b1f76645fb495929eeaceabaf0ef3/b9e4f/first_reddit_post_comment.png 590w,
+/blog/static/0f0b1f76645fb495929eeaceabaf0ef3/7d5a5/first_reddit_post_comment.png 687w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -189,7 +189,7 @@ So, after getting the bot up and running on a weird, free hosting platform, I tr
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://wwww.connormulqueen.com/overreacted/overreacted/static/41e5f62eb73777db8455c1f38b06dc81/de365/github_issue.png&quot;
+    href=&quot;https://wwww.connormulqueen.com/blog/blog/static/41e5f62eb73777db8455c1f38b06dc81/de365/github_issue.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -208,11 +208,11 @@ So, after getting the bot up and running on a weird, free hosting platform, I tr
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Github Issue&quot;
         title=&quot;&quot;
-        src=&quot;https://wwww.connormulqueen.com/overreacted/overreacted/static/41e5f62eb73777db8455c1f38b06dc81/b9e4f/github_issue.png&quot;
-        srcset=&quot;/overreacted/static/41e5f62eb73777db8455c1f38b06dc81/cf440/github_issue.png 148w,
-/overreacted/static/41e5f62eb73777db8455c1f38b06dc81/d2d38/github_issue.png 295w,
-/overreacted/static/41e5f62eb73777db8455c1f38b06dc81/b9e4f/github_issue.png 590w,
-/overreacted/static/41e5f62eb73777db8455c1f38b06dc81/de365/github_issue.png 777w&quot;
+        src=&quot;https://wwww.connormulqueen.com/blog/blog/static/41e5f62eb73777db8455c1f38b06dc81/b9e4f/github_issue.png&quot;
+        srcset=&quot;/blog/static/41e5f62eb73777db8455c1f38b06dc81/cf440/github_issue.png 148w,
+/blog/static/41e5f62eb73777db8455c1f38b06dc81/d2d38/github_issue.png 295w,
+/blog/static/41e5f62eb73777db8455c1f38b06dc81/b9e4f/github_issue.png 590w,
+/blog/static/41e5f62eb73777db8455c1f38b06dc81/de365/github_issue.png 777w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -225,7 +225,7 @@ So, after getting the bot up and running on a weird, free hosting platform, I tr
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://wwww.connormulqueen.com/overreacted/overreacted/static/95d6a27d19df8641bbd9075ffa71f5eb/47573/github_issue_resolved_comment.png&quot;
+    href=&quot;https://wwww.connormulqueen.com/blog/blog/static/95d6a27d19df8641bbd9075ffa71f5eb/47573/github_issue_resolved_comment.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -244,11 +244,11 @@ So, after getting the bot up and running on a weird, free hosting platform, I tr
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Thank you&quot;
         title=&quot;&quot;
-        src=&quot;https://wwww.connormulqueen.com/overreacted/overreacted/static/95d6a27d19df8641bbd9075ffa71f5eb/b9e4f/github_issue_resolved_comment.png&quot;
-        srcset=&quot;/overreacted/static/95d6a27d19df8641bbd9075ffa71f5eb/cf440/github_issue_resolved_comment.png 148w,
-/overreacted/static/95d6a27d19df8641bbd9075ffa71f5eb/d2d38/github_issue_resolved_comment.png 295w,
-/overreacted/static/95d6a27d19df8641bbd9075ffa71f5eb/b9e4f/github_issue_resolved_comment.png 590w,
-/overreacted/static/95d6a27d19df8641bbd9075ffa71f5eb/47573/github_issue_resolved_comment.png 880w&quot;
+        src=&quot;https://wwww.connormulqueen.com/blog/blog/static/95d6a27d19df8641bbd9075ffa71f5eb/b9e4f/github_issue_resolved_comment.png&quot;
+        srcset=&quot;/blog/static/95d6a27d19df8641bbd9075ffa71f5eb/cf440/github_issue_resolved_comment.png 148w,
+/blog/static/95d6a27d19df8641bbd9075ffa71f5eb/d2d38/github_issue_resolved_comment.png 295w,
+/blog/static/95d6a27d19df8641bbd9075ffa71f5eb/b9e4f/github_issue_resolved_comment.png 590w,
+/blog/static/95d6a27d19df8641bbd9075ffa71f5eb/47573/github_issue_resolved_comment.png 880w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -263,7 +263,7 @@ So, after getting the bot up and running on a weird, free hosting platform, I tr
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://wwww.connormulqueen.com/overreacted/overreacted/static/28411b80d486097874382930fc03db8a/7d5a5/second_reddit_post.png&quot;
+    href=&quot;https://wwww.connormulqueen.com/blog/blog/static/28411b80d486097874382930fc03db8a/7d5a5/second_reddit_post.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -282,11 +282,11 @@ So, after getting the bot up and running on a weird, free hosting platform, I tr
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Repost&quot;
         title=&quot;&quot;
-        src=&quot;https://wwww.connormulqueen.com/overreacted/overreacted/static/28411b80d486097874382930fc03db8a/b9e4f/second_reddit_post.png&quot;
-        srcset=&quot;/overreacted/static/28411b80d486097874382930fc03db8a/cf440/second_reddit_post.png 148w,
-/overreacted/static/28411b80d486097874382930fc03db8a/d2d38/second_reddit_post.png 295w,
-/overreacted/static/28411b80d486097874382930fc03db8a/b9e4f/second_reddit_post.png 590w,
-/overreacted/static/28411b80d486097874382930fc03db8a/7d5a5/second_reddit_post.png 687w&quot;
+        src=&quot;https://wwww.connormulqueen.com/blog/blog/static/28411b80d486097874382930fc03db8a/b9e4f/second_reddit_post.png&quot;
+        srcset=&quot;/blog/static/28411b80d486097874382930fc03db8a/cf440/second_reddit_post.png 148w,
+/blog/static/28411b80d486097874382930fc03db8a/d2d38/second_reddit_post.png 295w,
+/blog/static/28411b80d486097874382930fc03db8a/b9e4f/second_reddit_post.png 590w,
+/blog/static/28411b80d486097874382930fc03db8a/7d5a5/second_reddit_post.png 687w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -298,7 +298,7 @@ So, after getting the bot up and running on a weird, free hosting platform, I tr
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://wwww.connormulqueen.com/overreacted/overreacted/static/fff81fcaae078fc614fe5db7e279b4a8/98017/second_reddit_post_comment.png&quot;
+    href=&quot;https://wwww.connormulqueen.com/blog/blog/static/fff81fcaae078fc614fe5db7e279b4a8/98017/second_reddit_post_comment.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -317,10 +317,10 @@ So, after getting the bot up and running on a weird, free hosting platform, I tr
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Second Reddit Post comment&quot;
         title=&quot;&quot;
-        src=&quot;https://wwww.connormulqueen.com/overreacted/overreacted/static/fff81fcaae078fc614fe5db7e279b4a8/98017/second_reddit_post_comment.png&quot;
-        srcset=&quot;/overreacted/static/fff81fcaae078fc614fe5db7e279b4a8/cf440/second_reddit_post_comment.png 148w,
-/overreacted/static/fff81fcaae078fc614fe5db7e279b4a8/d2d38/second_reddit_post_comment.png 295w,
-/overreacted/static/fff81fcaae078fc614fe5db7e279b4a8/98017/second_reddit_post_comment.png 441w&quot;
+        src=&quot;https://wwww.connormulqueen.com/blog/blog/static/fff81fcaae078fc614fe5db7e279b4a8/98017/second_reddit_post_comment.png&quot;
+        srcset=&quot;/blog/static/fff81fcaae078fc614fe5db7e279b4a8/cf440/second_reddit_post_comment.png 148w,
+/blog/static/fff81fcaae078fc614fe5db7e279b4a8/d2d38/second_reddit_post_comment.png 295w,
+/blog/static/fff81fcaae078fc614fe5db7e279b4a8/98017/second_reddit_post_comment.png 441w&quot;
         sizes=&quot;(max-width: 441px) 100vw, 441px&quot;
       /&gt;
     &lt;/span&gt;
@@ -348,7 +348,7 @@ So, after getting the bot up and running on a weird, free hosting platform, I tr
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://wwww.connormulqueen.com/overreacted/overreacted/static/754dab13f696a409313ad36882add1de/308c1/github_stars_button.png&quot;
+    href=&quot;https://wwww.connormulqueen.com/blog/blog/static/754dab13f696a409313ad36882add1de/308c1/github_stars_button.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -367,10 +367,10 @@ So, after getting the bot up and running on a weird, free hosting platform, I tr
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;sadness.png&quot;
         title=&quot;&quot;
-        src=&quot;https://wwww.connormulqueen.com/overreacted/overreacted/static/754dab13f696a409313ad36882add1de/308c1/github_stars_button.png&quot;
-        srcset=&quot;/overreacted/static/754dab13f696a409313ad36882add1de/cf440/github_stars_button.png 148w,
-/overreacted/static/754dab13f696a409313ad36882add1de/d2d38/github_stars_button.png 295w,
-/overreacted/static/754dab13f696a409313ad36882add1de/308c1/github_stars_button.png 338w&quot;
+        src=&quot;https://wwww.connormulqueen.com/blog/blog/static/754dab13f696a409313ad36882add1de/308c1/github_stars_button.png&quot;
+        srcset=&quot;/blog/static/754dab13f696a409313ad36882add1de/cf440/github_stars_button.png 148w,
+/blog/static/754dab13f696a409313ad36882add1de/d2d38/github_stars_button.png 295w,
+/blog/static/754dab13f696a409313ad36882add1de/308c1/github_stars_button.png 338w&quot;
         sizes=&quot;(max-width: 338px) 100vw, 338px&quot;
       /&gt;
     &lt;/span&gt;
@@ -379,9 +379,9 @@ So, after getting the bot up and running on a weird, free hosting platform, I tr
   &lt;/a&gt;
     &lt;/p&gt;
 &lt;p&gt;I ended up getting 4 stars. 3 of which came from friends, and 1 of which came from my brother. Not all stories have happy endings, but maybe I just didn’t have the right goal?&lt;/p&gt;
-&lt;p&gt;My discord bot website&lt;/p&gt;
-&lt;p&gt;Discord bot repo&lt;/p&gt;
-                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at overreacted.io. You can read it online by &lt;a href=&quot;https://wwww.connormulqueen.com/overreacted/getting-my-discord-bot-to-500-users/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
-              </content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[hey.]]></description><link>https://wwww.connormulqueen.com/overreacted/fix-like-no-ones-watching/</link><guid isPermaLink="false">https://wwww.connormulqueen.com/overreacted/fix-like-no-ones-watching/</guid><pubDate>Fri, 15 Feb 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I don’t think I’ll be making posts frequently but I think it would be a good practice to write blog posts about the random personal projects I make in my free-time. So maybe I’ll make a couple of posts a year&lt;a href=&quot;https://wwww.connormulqueen.com/overreacted/overreacted/getting-my-discord-to-500-servers/&quot;&gt;.&lt;/a&gt;&lt;/p&gt;
-                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at overreacted.io. You can read it online by &lt;a href=&quot;https://wwww.connormulqueen.com/overreacted/fix-like-no-ones-watching/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.connormulqueen.com/Mechanical-Squirrel/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;My discord bot website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ConnorMulqueen/Mechanical-Squirrel&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Discord bot repo&lt;/a&gt;&lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at overreacted.io. You can read it online by &lt;a href=&quot;https://wwww.connormulqueen.com/blog/getting-my-discord-bot-to-500-users/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[hey.]]></description><link>https://wwww.connormulqueen.com/blog/fix-like-no-ones-watching/</link><guid isPermaLink="false">https://wwww.connormulqueen.com/blog/fix-like-no-ones-watching/</guid><pubDate>Fri, 15 Feb 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I don’t intend to be making posts frequently but I think it’ll be a good practice to write blog posts about the random personal projects I make in my free-time. It’ll probably only be a handful a year&lt;a href=&quot;https://wwww.connormulqueen.com/blog/blog/getting-my-discord-to-500-servers/&quot;&gt;.&lt;/a&gt;&lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at overreacted.io. You can read it online by &lt;a href=&quot;https://wwww.connormulqueen.com/blog/fix-like-no-ones-watching/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
               </content:encoded></item></channel></rss>
