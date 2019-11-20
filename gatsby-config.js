@@ -127,7 +127,7 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: "Dan Abramov's Overreacted Blog RSS Feed",
+            title: "Connor Mulqueen's Blog RSS Feed",
           },
         ],
       },

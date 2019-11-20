@@ -12,7 +12,7 @@ class Footer extends React.Component {
         }}
       >
         <div style={{ float: 'right' }}>
-          <a href="/rss.xml" target="_blank" rel="noopener noreferrer">
+          <a href="/blog/rss.xml" target="_blank" rel="noopener noreferrer">
             rss
           </a>
         </div>
@@ -22,6 +22,14 @@ class Footer extends React.Component {
           rel="noopener noreferrer"
         >
           github
+        </a>{' '}
+        &bull;{' '}
+        <a
+          href="https://github.com/gaearon/overreacted.io"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          blog style forked from Dan Abramov
         </a>
       </footer>
     );
