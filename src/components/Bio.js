@@ -24,7 +24,7 @@ class Bio extends React.Component {
         />
         <p style={{ maxWidth: 310 }}>
           Personal blog by{' '}
-          <a href="https://mobile.twitter.com/dan_abramov">Connor Mulqueen</a>.{' '}
+          <a href="https://www.connormulqueen.com/">Connor Mulqueen</a>.{' '}
           Some&nbsp;guy who liked Halo enough to become a software engineer.
         </p>
       </div>

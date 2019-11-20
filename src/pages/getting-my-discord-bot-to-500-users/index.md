@@ -5,7 +5,6 @@ spoiler: A tale about World of Warcraft memes and catering to an audience
 ---
 _A tale about World of Warcraft memes and catering to an audience_
 
-Todo-fix this
 Side projects remind me of why I love software development - we have the ability to conjure products from nothing, with minimal upfront costs. In this side project, the most rewarding part has actually been bundling it and making it accessible to the public with a beautiful readme. Why is this my favorite part? Am I a man of the people? **No.** I just want GitHub stars.
 
 So as the man I am, a seeker of GitHub stars, I went on and decided my best action was to try to appeal to a niche community that I relate with; as Mark Twain said, "Write what you know." The answer was obvious: I was going to build something that related to World of Warcraft.
@@ -51,6 +50,18 @@ with open('imageLinks.csv','a') as csvFile:
                 csvFile.write(post.title + ', ' + post.url + '\n')
             except UnicodeEncodeError:
                 pass
+```
+
+Running this script will generate a .csv that looks like:
+```
+Blizzard added a Thex NPC to retail!, https://i.redd.it/br40nn345hg31.png
+Soon in wow classic!, https://i.redd.it/i5uk9lojefc31.jpg
+Everyone in this Subreddit right now, https://i.redd.it/ig4cpkh4c7g31.jpg
+Blessed be the Paladins, https://i.redd.it/rzr69wqr7uf31.jpg
+Nothing new, https://i.redd.it/zwwi6owb4vc31.png
+"Let's just wait until they pull another mob...", https://i.redd.it/m1bqdby4uqa31.png
+Blizzard HQ, September 4., https://i.redd.it/vw4xa35x1td31.jpg
+...
 ```
 
 The JavaScript/Node side handles user request. So when a user types '#nochanges' or '#meme', we reply with a random line grabbed from our .csv file.
@@ -135,6 +146,6 @@ I checked back in with my original goal - the mission to collect stars on my Git
 
 I ended up getting 4 stars. 3 of which came from friends, and 1 of which came from my brother. Not all stories have happy endings, but maybe I just didn't have the right goal?
 
-My discord bot website
+[My discord bot website](https://www.connormulqueen.com/Mechanical-Squirrel/)
 
-Discord bot repo
+[Discord bot repo](https://github.com/ConnorMulqueen/Mechanical-Squirrel)

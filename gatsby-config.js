@@ -4,12 +4,12 @@ module.exports = {
     author: 'Connor Mulqueen',
     description:
       'Personal blog by Connor Mulqueen. Some guy who liked Halo enough to become a software engineer.',
-    siteUrl: 'https://wwww.connormulqueen.com/overreacted',
+    siteUrl: 'https://wwww.connormulqueen.com/blog',
     social: {
       twitter: '@connormulqueen',
     },
   },
-  pathPrefix: '/overreacted',
+  pathPrefix: '/blog',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -135,8 +135,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Overreacted`,
-        short_name: `Overreacted`,
+        name: `blog`,
+        short_name: `blog`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#ffa7c4`,
